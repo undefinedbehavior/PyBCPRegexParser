@@ -1,4 +1,4 @@
-Yet another front-end compiler-compiler.
+
 
 ChangeLog
 =========
